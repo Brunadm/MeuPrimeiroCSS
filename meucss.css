@@ -1,0 +1,78 @@
+body {
+    background-image: url(cerebro.jpg);
+}
+p {
+    color: black;
+    text-align: left;
+    font-size: 20px;
+    font: arial;
+    border: 5px solid black
+}
+h1 {
+    color: hotpink;
+    text-align: center;
+    font-size: 30px;
+    font-style: italic;
+    background-color: white;
+    border: 10px solid black;
+    margin-left: 300px;
+    margin-right: 300px;
+}
+h2 {
+    color: green;
+    text-align: center;
+    font-size: 30px;
+    background-color: white;
+    font-style: italic;
+    border: 10px solid black;
+    margin-left: 300px;
+    margin-right: 300px;
+
+}
+h3 {
+    color: orange;
+    text-align: center;
+    font-size: 30px;
+    background-color: white;
+    font-style: italic;
+    border: 10px solid black;
+    margin-left: 300px;
+    margin-right: 300px;
+
+}
+h4 {
+    color: black;
+    text-align: center;
+    font-size: 30px;
+    background-color: white;
+    font-style: italic;
+    border: 10px solid black;
+    margin-left: 300px;
+    margin-right: 300px;
+
+}
+h5 {
+    color: purple;
+    text-align: center;
+    font-size: 30px;
+    background-color: white;
+    font-style: italic;
+    border: 10px solid black;
+    margin-left: 300px;
+    margin-right: 300px;
+}
+
+#texto1 {
+    background-color: rgb(250, 150, 50);
+}
+
+#texto2 {
+    background-color: rgb(300, 150, 150);
+}
+.grupo {
+    color: black;
+    background-color: pink;
+}
+div { 
+}
+
